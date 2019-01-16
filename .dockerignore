@@ -1,0 +1,4 @@
+*
+!gatsby-*
+!package*.json
+!src
